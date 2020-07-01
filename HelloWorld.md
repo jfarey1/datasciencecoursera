@@ -1,1 +1,2 @@
 ## This is a markdown file
+print("The first line was created in GitHub directly, since then I have added to RStudio using version control and added this second line of text. This will now be pushed back to GitHub.")
